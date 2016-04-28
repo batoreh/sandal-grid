@@ -4,6 +4,9 @@
 |prefixes | meaning   |
 |:--------|:---------|
 |   x     | eXtraSmall (<768px) |
+|s| 768px < Small < 992px | 
+|m| 992px > Medium > 1200px |
+|l| 1200px > Large|
 
 
 
